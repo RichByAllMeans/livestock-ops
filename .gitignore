@@ -1,0 +1,8 @@
+backups/
+*.dump
+*.sql.gz
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/
